@@ -8,3 +8,10 @@ This repository contains SnakeCube's code, benchmarking and optimization results
 as an Application Note in the highly impactful Bioinformatics journal, part of the Oxford University Press (Oxford Academics).
 
 
+### User Guide GitHub Web Page:
+    De-Novo_Genome_Assembly_Pipelines
+
+
+
+### Developers’ GitHub Repository:
+	  nellieangelova/Containerized_Pipelines_GA (Private, contact for access)
