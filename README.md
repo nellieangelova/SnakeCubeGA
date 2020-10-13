@@ -16,7 +16,7 @@ as an Application Note in the highly impactful Bioinformatics journal, part of t
 [Private - Contact for access](https://github.com/nellieangelova/Containerized_Pipelines_GA)
 
 ### Available Containers:
-[SQTQ](https://www.dropbox.com/s/697n3fi84txkgge/SQTQ.simg?dl=0)
-[LQTQ](https://www.dropbox.com/s/jdrezw46mbhr04d/LQTQ.simg?dl=0)
-[LGA](https://www.dropbox.com/s/cwal2finb966uge/LGA.simg?dl=0)
-[LSGA](https://www.dropbox.com/s/hoqikoqxutx961q/LSGA.simg?dl=0)
+[SQTQ](https://www.dropbox.com/s/697n3fi84txkgge/SQTQ.simg?dl=0) <br>
+[LQTQ](https://www.dropbox.com/s/jdrezw46mbhr04d/LQTQ.simg?dl=0) <br>
+[LGA](https://www.dropbox.com/s/cwal2finb966uge/LGA.simg?dl=0) <br>
+[LSGA](https://www.dropbox.com/s/hoqikoqxutx961q/LSGA.simg?dl=0) <br>
