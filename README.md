@@ -9,9 +9,14 @@ as an Application Note in the highly impactful Bioinformatics journal, part of t
 
 
 ### User Guide GitHub Web Page:
-    De-Novo_Genome_Assembly_Pipelines
-
+[I'm an inlin](https://www.google.com)
 
 
 ### Developers’ GitHub Repository:
-	  nellieangelova/Containerized_Pipelines_GA (Private, contact for access)
+[I'm an inline-style link](https://www.google.com)
+
+### Available Containers:
+[SQTQ](https://www.google.com)
+[LQTQ](https://www.google.com)
+[LGA](https://www.google.com)
+[LSGA](https://www.google.com)
