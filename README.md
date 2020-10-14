@@ -12,8 +12,8 @@ as an Application Note in the highly impactful Bioinformatics journal, part of t
 [GitHub Web Page](https://nellieangelova.github.io/De-Novo_Genome_Assembly_Pipelines/)
 
 
-### Developers’ GitHub Repository:
-[Private - Contact for access](https://github.com/nellieangelova/Containerized_Pipelines_GA)
+### Developers’ Guide:
+[GitHub Web Page](https://github.com/nellieangelova/Containerized_Pipelines_How_To/)
 
 ### Available Containers:
 [SQTQ](https://www.dropbox.com/s/697n3fi84txkgge/SQTQ.simg?dl=0) <br>
